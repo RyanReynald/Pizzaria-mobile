@@ -12,8 +12,7 @@ Este projeto está em desenvolvimento, é um aplicativo móvel para gerenciament
 
 ## Tecnologia
 
-- **Front-end**: [Nextjs, Scss, etc.]
-- **Back-end**: [Node.js, Express, prostsql, etc.]
+- **Mobile**: [React native, Scss, etc.]
 
 ## Versão do Sistema Web
 
