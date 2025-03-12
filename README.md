@@ -12,7 +12,7 @@ Este projeto está em desenvolvimento, é um aplicativo móvel para gerenciament
 
 ## Tecnologia
 
-- **Mobile**: [React native, Scss, etc.]
+- **Mobile**: [React native, Scss e token JWT.]
 
 ## Versão do Sistema Web
 
