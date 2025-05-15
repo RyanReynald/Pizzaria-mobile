@@ -32,7 +32,7 @@ export default function SignIn() {
     <View style={styles.container}>
       <Image
         style={styles.logo}
-        source={require('../../assets/logo.png')}
+        source={require('../../assets/La_nave-removebg-preview.png')}
       />
 
       <View style={styles.inputContainer}>
@@ -73,9 +73,11 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#1d1d2e'
   },
+  
   logo: {
-    marginBottom: 18,
+    width: '120%',
   },
+
   inputContainer: {
     width: '95%',
     alignItems: 'center',
